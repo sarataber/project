@@ -19,7 +19,7 @@ const App = () => {
     return <div>
         <Header />
         <Outlet />
-        {/* <Help/> */}
+         <Help/> 
 
         {/* <HeaderTest/>
         <BUtton />
